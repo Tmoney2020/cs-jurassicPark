@@ -219,6 +219,8 @@ namespace cs_jurassicPark
                 if (toChoose == "Q")
                 {
                     userChooseQuit = true;
+                    Console.WriteLine("Come back anytime! Remeber at Jurassic Park Nature Always Finds A Way!");
+                    Console.WriteLine();
                 }
             }
         }
